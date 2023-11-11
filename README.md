@@ -12,3 +12,5 @@ $ npm run dev
 
 ## To do
 - Dockerize the application
+- Document how to deploy
+- Error handling
